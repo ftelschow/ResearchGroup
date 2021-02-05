@@ -4,6 +4,4 @@ title: "Teaching"
 classes: wide
 ---
 
-## Something about teaching
-
-Lore ipsum
+## WiSe 2021
