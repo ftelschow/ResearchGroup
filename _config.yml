@@ -61,6 +61,7 @@ author:
   name   : "Head of Junior Research Group"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "HU Berlin/MATH+"
+  email  : "ftelschow@gmail.com" 
   location: "Berlin, Germany"
   links:
     - label: "GitHub"
