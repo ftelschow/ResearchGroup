@@ -6,7 +6,7 @@ classes: wide
 
 ## 2021
 
-**Confidence Sets for Cohen’sd effect size images.**  
+**Confidence Sets for Cohen’s d effect size images.**  
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
 *NeuroImage 226 (2021): 117477.*
 
