@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Head of Junior Research Group"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "HU Berlin/MATH+."
+  bio    : "HU Berlin/MATH+"
   location: "Berlin, Germany"
   links:
     - label: "GitHub"
