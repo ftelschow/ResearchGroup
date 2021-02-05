@@ -35,6 +35,6 @@ F. Telschow, S. Huckemann, and M. Pierrynowski.
 F. Telschow, S. Davenport, and A. Schwartzman  
 *arXiv preprint arXiv:2005.10041. (2020).*
 
-**Confidence tubes for curves on SO (3) and identification of subject-specific gait change after kneeling.**
+**Confidence tubes for curves on SO (3) and identification of subject-specific gait change after kneeling.**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *arXiv preprint arXiv:1909.06583 (2019).*
