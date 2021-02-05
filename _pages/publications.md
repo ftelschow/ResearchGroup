@@ -35,6 +35,10 @@ F. Telschow, S. Huckemann, and M. Pierrynowski.
 F. Telschow, S. Davenport, and A. Schwartzman  
 *arXiv preprint arXiv:2005.10041. (2020).*
 
+**Estimation of Expected Euler Characteristic Curves of Nonstationary Smooth Gaussian Random Fields.**  
+F. Telschow, A. Schwartzman, D. Cheng, and P. Pranav.  
+*arXiv preprint arXiv:1908.02493 (2019).*
+
 **Confidence tubes for curves on SO (3) and identification of subject-specific gait change after kneeling.**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *arXiv preprint arXiv:1909.06583 (2019).*
