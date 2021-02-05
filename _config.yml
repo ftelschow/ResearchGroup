@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Head of Junior Research Group"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "This is a test."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
