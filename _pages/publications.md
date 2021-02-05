@@ -23,3 +23,9 @@ A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.
 
 
 ## 2013
+
+## Preprints
+
+**Functional delta residuals and applications to functional effect sizes.**  
+F. Telschow, S. Davenport, and A. Schwartzman  
+*arXiv preprint arXiv:2005.10041. (2020).*
