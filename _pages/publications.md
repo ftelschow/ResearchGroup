@@ -17,12 +17,17 @@ F. Telschow, M. Pierrynowski, and S. Huckemann.
 *Scandinavian Journal of Statistics (2020).*
 
 ## 2019
+
 **Spatial confidence sets for raw effect size images.**  
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
 *NeuroImage 203 (2019): 116187.*
 
 
 ## 2013
+
+**Asymptotics for Object Descriptors.**  
+F. Telschow, S. Huckemann, and M. Pierrynowski.   
+*Biometrical Journal 56, no. 5 (2014): 781-785.*
 
 ## Preprints
 
