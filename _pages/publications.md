@@ -22,6 +22,10 @@ F. Telschow, M. Pierrynowski, and S. Huckemann.
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
 *NeuroImage 203 (2019): 116187.*
 
+**Peak p-values and false discovery rate inference in neuroimaging.**  
+A. Schwartzman, and F. Telschow.  
+*NeuroImage 197 (2019): 402-413.*
+
 
 ## 2013
 

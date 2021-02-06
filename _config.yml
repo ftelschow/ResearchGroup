@@ -62,6 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "HU Berlin/MATH+"
   location: "Berlin, Germany"
+  email: "ftelschow@gmail.com" 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
