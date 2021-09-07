@@ -10,10 +10,6 @@ classes: wide
 F. Telschow and A. Schwartzman
 Journal of Statistical Planning and Inference 216. (2022), p. 70-94.
 
-**Confidence Sets for Cohen’s d effect size images.**  
-A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
-*NeuroImage 226 (2021): 117477.*
-
 ## 2021
 
 **Confidence Sets for Cohen’s d effect size images.**  
