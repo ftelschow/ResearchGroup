@@ -6,7 +6,7 @@ classes: wide
 
 ## 2022
 
-**Simultaneous confidence bands for functional data using the gaussian kinematic formula. Journal of Statistical Planning and Inference**
+**Simultaneous confidence bands for functional data using the gaussian kinematic formula.**  
 F. Telschow and A. Schwartzman
 Journal of Statistical Planning and Inference 216. (2022), p. 70-94.
 
