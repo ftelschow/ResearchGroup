@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a Junior Research group leader at the Humboldt-University Berlin.
+I am a Junior Research Group Leader at the Humboldt-University Berlin.
 I studied at the Georg-August-University in Göttingen and received my
 PhD there under the Supervision of Prof. Dr. Stephan Huckemann.
 Afterwards I was a postdoctoral employee at the University of California,
