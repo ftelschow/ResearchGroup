@@ -30,6 +30,8 @@ komponentenanalyse (PCA) und Monte-Carlo-Methoden.
 
 **Voraussetzungen:** Stochastik I; der parallele Besuch von Stochastik II wird empfohlen
 
+Weitere Informationen finden Sie im moodle.
+
 #### Literatur:
 Trevor Hastie, Robert Tibshirani, Jerome H. Friedman: The Elements of Statistical Learning:
 Data Mining, Inference, and Prediction, Springer, 2009
