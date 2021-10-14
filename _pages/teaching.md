@@ -33,8 +33,8 @@ komponentenanalyse (PCA) und Monte-Carlo-Methoden.
 Weitere Informationen finden Sie im moodle.
 
 #### Literatur:
-Trevor Hastie, Robert Tibshirani, Jerome H. Friedman: The Elements of Statistical Learning:
-Data Mining, Inference, and Prediction, Springer, 2009
-Christian Robert, George Casella: Introducing Monte Carlo Methods with R, Springer, 2009
-Christian Robert, George Casella: Monte Carlo Statistical Methods, Springer, 2010
+*Trevor Hastie, Robert Tibshirani, Jerome H. Friedman: The Elements of Statistical Learning:
+Data Mining, Inference, and Prediction, Springer, 2009*
+*Christian Robert, George Casella: Introducing Monte Carlo Methods with R, Springer, 2009*
+*Christian Robert, George Casella: Monte Carlo Statistical Methods, Springer, 2010*
 
