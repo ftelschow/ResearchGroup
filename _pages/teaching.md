@@ -11,7 +11,7 @@ classes: wide
 Im Wintersemester 2020/21 organisiere ich die Lehrveranstaltung
 BZQ II: Stochastik-Praktikum
 
-*Termin:*
+#### Termin:
 Montag,
  9.15 – 10.45 Uhr,
 Rudower Chaussee 25 (Johann von Neumann-Haus), Raum wird bekannt gegeben
@@ -27,7 +27,8 @@ Schwerpunkte sind unter anderem das Erzeugen von Zufallszahlen, Test- und
 Schätzmethoden,
  die Simulation stochastischer Prozesse, Klassifikation, Haupt-
 komponentenanalyse (PCA) und Monte-Carlo-Methoden.
-*Voraussetzungen:* Stochastik I; der parallele Besuch von Stochastik II wird empfohlen
+
+**Voraussetzungen:** Stochastik I; der parallele Besuch von Stochastik II wird empfohlen
 
 #### Literatur:
 Trevor Hastie, Robert Tibshirani, Jerome H. Friedman: The Elements of Statistical Learning:
