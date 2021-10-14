@@ -15,7 +15,8 @@ BZQ II: Stochastik-Praktikum
 Montag,
  9.15 – 10.45 Uhr,
 Rudower Chaussee 25 (Johann von Neumann-Haus), Raum wird bekannt gegeben
-Erster Termin: Dienstag, 25. Oktober 2021
+
+**Erster Termin:** Dienstag, 25. Oktober 2021
 
 #### Inhalt:
 Ziel der Veranstaltung ist die praktische Umsetzung und Implementierung stochastischer
@@ -30,7 +31,7 @@ komponentenanalyse (PCA) und Monte-Carlo-Methoden.
 
 **Voraussetzungen:** Stochastik I; der parallele Besuch von Stochastik II wird empfohlen
 
-Weitere Informationen finden Sie im moodle.
+**Weitere Informationen finden Sie im moodle.**
 
 #### Literatur:
 *Trevor Hastie, Robert Tibshirani, Jerome H. Friedman: The Elements of Statistical Learning:
