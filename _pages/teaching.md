@@ -35,11 +35,3 @@ Data Mining, Inference, and Prediction, Springer, 2009
 Christian Robert, George Casella: Introducing Monte Carlo Methods with R, Springer, 2009
 Christian Robert, George Casella: Monte Carlo Statistical Methods, Springer, 2010
 
-
-**Termine:**
-
-**Inhalt:**
-
-**Voraussetzungen:** Stochastik I. Der parallele Besuch von Stochastik II wird empfohlen.
-
-**Literatur:**
