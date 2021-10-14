@@ -14,7 +14,7 @@ BZQ II: Stochastik-Praktikum
 #### Termin:
 Montag,
  9.15 – 10.45 Uhr,
-Rudower Chaussee 25 (Johann von Neumann-Haus), Raum wird bekannt gegeben
+Rudower Chaussee 25 (Johann von Neumann-Haus), Raum CIP 2.207
 
 **Erster Termin:** Dienstag, 25. Oktober 2021
 
