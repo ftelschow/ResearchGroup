@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /researchgroup/
 title: "MATH+ Junior Research Group on Statistical Inversion and Quantification of Uncertainties"
 classes: wide
 ---
