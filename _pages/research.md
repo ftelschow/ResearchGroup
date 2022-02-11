@@ -1,10 +1,8 @@
 ---
 permalink: /research/
-title: "Research"
+title: "MATH+ Junior Research Group on Statistical Inversion and Quantification of Uncertainties"
 classes: wide
 ---
-
-## MATH+ Junior Research Group on Statistical Inversion and Quantification of Uncertainties
 
 Since Spring 2021 I have a junior research group at the HU Berlin funded by the MATH+ Excellence Cluster
 for mathematics. The topics we are interested are mainly the quantification of uncertainties in the estimation
