@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Research Group"
-    url: /research/
+    url: /researchgroup/
   - title: "Publications"
     url: /publications/
   - title: "Software"
