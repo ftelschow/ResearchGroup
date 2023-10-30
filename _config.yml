@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "HU Berlin/MATH+"
   location: "Berlin, Germany"
-  email: "ftelschow@gmail.com" 
+  email: "fabian.telschow@hu-berlin.de" 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
