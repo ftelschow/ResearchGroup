@@ -11,7 +11,7 @@ F. Telschow, D. Cheng, and P. Pranav, A. Schwartzman.
 To appear The Annals of Statistics
 
 **Confidence tubes for curves on SO(3) and identification of subject-specific gait change after kneeling**
-F. Telschow, M. Pierrynowski, S. Huckemann, , 
+F. Telschow, M. Pierrynowski, S. Huckemann,
 *Journal of the Royal Statistical Society Series C: Applied Statistics*
 https://doi.org/10.1093/jrsssc/qlad060
 
