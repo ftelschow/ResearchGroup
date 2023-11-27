@@ -10,7 +10,7 @@ classes: wide
 F. Telschow, D. Cheng, P. Pranav, and A. Schwartzman.  
 *To appear The Annals of Statistics*  
 
-**Confidence Tubes for Curves on SO(3) and Identification of Subject-specific Gait Change After Kneeling**  
+**Confidence Tubes for Curves on SO(3) and Identification of Subject-specific Gait Change After Kneeling.**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *Journal of the Royal Statistical Society Series C: Applied Statistics*  
 [Article](https://doi.org/10.1093/jrsssc/qlad060)  
@@ -67,11 +67,11 @@ F. Telschow, S. Huckemann, and M. Pierrynowski.
 
 ## Preprints
 
-**Riding the SuRF to Continuous Land - I: Precise FWER Control with Gaussian Related Fields**  
+**Riding the SuRF to Continuous Land - I: Precise FWER Control with Gaussian Related Fields,**  
 F. Telschow, and S. Davenport (2023).  
 Soon to be submitted  
 
-**Riding the SuRF to Continuous Land - II:  Precise FWER Control in Neuroimaging using Random Field theory**  
+**Riding the SuRF to Continuous Land - II:  Precise FWER Control in Neuroimaging using Random Field theory.**  
 S. Davenport, A. SChwartzman, T. Nichols, and F. Telschow (2023).  
 Soon to be submitted  
 
