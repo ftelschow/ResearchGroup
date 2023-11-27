@@ -87,6 +87,9 @@ R. Junting, F. Telschow, A. Schwartzman (2022).
 S. Davenport, F. Telschow, F. J. (2022).  
 [ArXiv](https://arxiv.org/abs/2201.01591)  
 
+**Representation by Integrating Reproducing Kernels**  
+T. Hotz, and F. Telschow (2012)  
+[ArXiv](https://arxiv.org/abs/1202.4443)
 
 ## In Preparation
 
