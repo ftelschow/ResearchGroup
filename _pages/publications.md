@@ -4,7 +4,22 @@ title: "Publications"
 classes: wide
 ---
 
+## 2023
+
+**Estimation of Expected Euler Characteristic Curves of Nonstationary Smooth Gaussian Random Fields.**  
+F. Telschow, D. Cheng, and P. Pranav, A. Schwartzman.  
+To appear The Annals of Statistics
+
+**Confidence tubes for curves on SO(3) and identification of subject-specific gait change after kneeling**
+F. Telschow, M. Pierrynowski, S. Huckemann, , 
+*Journal of the Royal Statistical Society Series C: Applied Statistics*
+https://doi.org/10.1093/jrsssc/qlad060
+
 ## 2022
+
+**Functional delta residuals and applications to simultaneous confidence bands of moment based statistics.**
+Telschow, Fabian JE, Samuel Davenport, and Armin Schwartzman.
+*Journal of Multivariate Analysis 192 (2022): 105085.*
 
 **Simultaneous confidence bands for functional data using the gaussian kinematic formula.**  
 F. Telschow and A. Schwartzman
@@ -40,15 +55,10 @@ F. Telschow, S. Huckemann, and M. Pierrynowski.
 *Biometrical Journal 56, no. 5 (2014): 781-785.*
 
 ## Preprints
+**SCoPE Sets: A Versatile Framework for Simultaneous Inference.**
+F. Telschow, F., J. Ren, A. Schwartzman (2023). 
+*https://arxiv.org/abs/2302.05139*
 
-**Functional delta residuals and applications to functional effect sizes.**  
-F. Telschow, S. Davenport, and A. Schwartzman  
-*arXiv preprint arXiv:2005.10041. (2020).*
-
-**Estimation of Expected Euler Characteristic Curves of Nonstationary Smooth Gaussian Random Fields.**  
-F. Telschow, A. Schwartzman, D. Cheng, and P. Pranav.  
-*arXiv preprint arXiv:1908.02493 (2019).*
-
-**Confidence tubes for curves on SO (3) and identification of subject-specific gait change after kneeling.**  
-F. Telschow, M. Pierrynowski, and S. Huckemann.  
-*arXiv preprint arXiv:1909.06583 (2019).*
+**Inverse set estimation and inversion of simultaneous confidence intervals.**
+R. Junting, F. Telschow, A. Schwartzman (2023).
+*https://arxiv.org/abs/2210.03933*
