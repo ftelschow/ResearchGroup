@@ -67,12 +67,12 @@ F. Telschow, S. Huckemann, and M. Pierrynowski.
 
 ## Preprints
 
-**Riding the SuRF to Continuous Land - I: Precise FWER Control with Gaussian Related Fields,**  
+**Riding the SuRF to Continuous Land - I: Precise FWER Control with Gaussian Related Fields.**  
 F. Telschow, and S. Davenport (2023).  
 Soon to be submitted  
 
 **Riding the SuRF to Continuous Land - II:  Precise FWER Control in Neuroimaging using Random Field theory.**  
-S. Davenport, A. SChwartzman, T. Nichols, and F. Telschow (2023).  
+S. Davenport, A. Schwartzman, T. Nichols, and F. Telschow (2023).  
 Soon to be submitted  
 
 **SCoPE Sets: A Versatile Framework for Simultaneous Inference.**  
