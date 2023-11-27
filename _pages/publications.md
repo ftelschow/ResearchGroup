@@ -13,7 +13,7 @@ F. Telschow, D. Cheng, P. Pranav, and A. Schwartzman.
 **Confidence Tubes for Curves on SO(3) and Identification of Subject-specific Gait Change After Kneeling**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *Journal of the Royal Statistical Society Series C: Applied Statistics*  
-https://doi.org/10.1093/jrsssc/qlad060  
+[HERE](https://doi.org/10.1093/jrsssc/qlad060)  
 
 **Atmospheric Verification of Emissions Reductions on Paths to Deep Decarbonization.**  
 A. Abdulla, F. Telschow, J. Dohner, R. Keeling, A. Schwartzman, and D. Victor  
