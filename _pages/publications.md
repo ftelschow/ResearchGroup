@@ -18,45 +18,52 @@ https://doi.org/10.1093/jrsssc/qlad060
 **Atmospheric Verification of Emissions Reductions on Paths to Deep Decarbonization.**  
 A. Abdulla, F. Telschow, J. Dohner, R. Keeling, A. Schwartzman, and D. Victor  
 *Environmental Research Letters 18.4 (2023): 044003.*  
+https://doi.org/10.1088/1748-9326/acbf69   
 
 ## 2022
 
 **Functional Delta Residuals and Applications to Simultaneous Confidence Bands of Moment Based Statistics.**  
 F. Telschow, S. Davenport, and A. Schwartzman.  
 *Journal of Multivariate Analysis 192 (2022): 105085.*  
+https://doi.org/10.1016/j.jmva.2022.105085  
 
 **Simultaneous Confidence Bands for Functional Data using the Gaussian Kinematic Formula.**   
 F. Telschow, and A. Schwartzman  
-Journal of Statistical Planning and Inference 216. (2022), p. 70-94.  
+*Journal of Statistical Planning and Inference 216. (2022), p. 70-94.*  
+https://doi.org/10.1016/j.jspi.2021.05.008  
 
 ## 2021
 
 **Confidence Sets for Cohen’s d Effect Size Images.**    
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.    
 *NeuroImage 226 (2021): 117477.*  
+https://doi.org/10.1016/j.neuroimage.2020.117477  
 
 ## 2020
 
 **Functional Inference on Rotational Curves under Sample‐specific Group Actions and Identification of Human Gait.**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *Scandinavian Journal of Statistics (2020).*  
+https://doi.org/10.1111/sjos.12488   
 
 ## 2019
 
 **Spatial Confidence Sets for Raw Effect Size Images.**  
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
 *NeuroImage 203 (2019): 116187.*  
+https://doi.org/10.1016/j.neuroimage.2019.116187  
 
 **Peak p-values and False Discovery Rate Inference in Neuroimaging.**  
 A. Schwartzman, and F. Telschow.  
 *NeuroImage 197 (2019): 402-413.*  
-
+https://doi.org/10.1016/j.neuroimage.2019.04.041  
 
 ## 2013
 
 **Asymptotics for Object Descriptors.**  
 F. Telschow, S. Huckemann, and M. Pierrynowski.   
 *Biometrical Journal 56, no. 5 (2014): 781-785.*  
+https://doi.org/10.1002/bimj.201300206  
 
 ## Preprints
 
