@@ -7,11 +7,11 @@ classes: wide
 ## 2023
 
 **Estimation of Expected Euler Characteristic Curves of Nonstationary Smooth Gaussian Random Fields.**  
-F. Telschow, D. Cheng, and P. Pranav, A. Schwartzman.  
+F. Telschow, D. Cheng, P. Pranav, and A. Schwartzman.  
 To appear The Annals of Statistics  
 
 **Confidence Tubes for Curves on SO(3) and Identification of Subject-specific Gait Change After Kneeling**  
-F. Telschow, M. Pierrynowski, S. Huckemann.  
+F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *Journal of the Royal Statistical Society Series C: Applied Statistics*  
 https://doi.org/10.1093/jrsssc/qlad060  
 
@@ -26,7 +26,7 @@ F. Telschow, S. Davenport, and A. Schwartzman.
 *Journal of Multivariate Analysis 192 (2022): 105085.*  
 
 **Simultaneous Confidence Bands for Functional Data using the Gaussian Kinematic Formula.**   
-F. Telschow and A. Schwartzman  
+F. Telschow, and A. Schwartzman  
 Journal of Statistical Planning and Inference 216. (2022), p. 70-94.  
 
 ## 2021
@@ -69,10 +69,10 @@ S. Davenport, A. SChwartzman, T. Nichols, and F. Telschow (2023).
 Soon to be submitted  
 
 **SCoPE Sets: A Versatile Framework for Simultaneous Inference.**  
-F. Telschow, F., J. Ren, A. Schwartzman (2023).  
+F. Telschow, J. Ren, A. Schwartzman (2023).  
 *https://arxiv.org/abs/2302.05139*  
 
-**Inverse set estimation and inversion of simultaneous confidence intervals.**  
+**Inverse Set Estimation and Inversion of Simultaneous Confidence Intervals.**  
 R. Junting, F. Telschow, A. Schwartzman (2022).  
 *https://arxiv.org/abs/2210.03933*  
 
