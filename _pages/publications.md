@@ -8,7 +8,7 @@ classes: wide
 
 **Estimation of Expected Euler Characteristic Curves of Nonstationary Smooth Gaussian Random Fields.**  
 F. Telschow, D. Cheng, P. Pranav, and A. Schwartzman.  
-To appear The Annals of Statistics  
+*To appear The Annals of Statistics*  
 
 **Confidence Tubes for Curves on SO(3) and Identification of Subject-specific Gait Change After Kneeling**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
@@ -58,7 +58,7 @@ A. Schwartzman, and F. Telschow.
 *NeuroImage 197 (2019): 402-413.*  
 https://doi.org/10.1016/j.neuroimage.2019.04.041  
 
-## 2013
+## 2014
 
 **Asymptotics for Object Descriptors.**  
 F. Telschow, S. Huckemann, and M. Pierrynowski.   
