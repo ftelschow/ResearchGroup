@@ -10,40 +10,40 @@ classes: wide
 F. Telschow, D. Cheng, and P. Pranav, A. Schwartzman.  
 To appear The Annals of Statistics
 
-**Confidence tubes for curves on SO(3) and identification of subject-specific gait change after kneeling**
+**Confidence Tubes for Curves on SO(3) and Identification of Subject-specific Gait Change After Kneeling**
 F. Telschow, M. Pierrynowski, S. Huckemann,
 *Journal of the Royal Statistical Society Series C: Applied Statistics*
 https://doi.org/10.1093/jrsssc/qlad060
 
 ## 2022
 
-**Functional delta residuals and applications to simultaneous confidence bands of moment based statistics.**
+**Functional Delta Residuals and Applications to Simultaneous Confidence Bands of Moment Based Statistics.**
 Telschow, Fabian JE, Samuel Davenport, and Armin Schwartzman.
 *Journal of Multivariate Analysis 192 (2022): 105085.*
 
-**Simultaneous confidence bands for functional data using the gaussian kinematic formula.**  
+**Simultaneous Confidence Bands for Functional Data using the Gaussian Kinematic Formula.**  
 F. Telschow and A. Schwartzman
 Journal of Statistical Planning and Inference 216. (2022), p. 70-94.
 
 ## 2021
 
-**Confidence Sets for Cohen’s d effect size images.**  
+**Confidence Sets for Cohen’s d Effect Size Images.**  
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
 *NeuroImage 226 (2021): 117477.*
 
 ## 2020
 
-**Functional inference on rotational curves under sample‐specific group actions and identification of human gait.**  
+**Functional Inference on Rotational Curves under Sample‐specific Group Actions and Identification of Human Gait.**  
 F. Telschow, M. Pierrynowski, and S. Huckemann.  
 *Scandinavian Journal of Statistics (2020).*
 
 ## 2019
 
-**Spatial confidence sets for raw effect size images.**  
+**Spatial Confidence Sets for Raw Effect Size Images.**  
 A. Bowring, F. Telschow, A. Schwartzman, and T. Nichols.  
 *NeuroImage 203 (2019): 116187.*
 
-**Peak p-values and false discovery rate inference in neuroimaging.**  
+**Peak p-values and False Discovery Rate Inference in Neuroimaging.**  
 A. Schwartzman, and F. Telschow.  
 *NeuroImage 197 (2019): 402-413.*
 
@@ -55,10 +55,23 @@ F. Telschow, S. Huckemann, and M. Pierrynowski.
 *Biometrical Journal 56, no. 5 (2014): 781-785.*
 
 ## Preprints
+
+**Riding the SuRF to Continuous Land - I: Precise FWER Control with Gaussian Related Fields**
+F. Telschow, and S. Davenport (2023).
+Soon to be submitted
+
+**Riding the SuRF to Continuous Land - II:  Precise FWER Control in Neuroimaging using Random Field theory**
+S. Davenport, A. SChwartzman, T. Nichols, and F. Telschow (2023).
+Soon to be submitted
+
 **SCoPE Sets: A Versatile Framework for Simultaneous Inference.**
-F. Telschow, F., J. Ren, A. Schwartzman (2023). 
+F. Telschow, F., J. Ren, A. Schwartzman (2023).
 *https://arxiv.org/abs/2302.05139*
 
 **Inverse set estimation and inversion of simultaneous confidence intervals.**
-R. Junting, F. Telschow, A. Schwartzman (2023).
+R. Junting, F. Telschow, A. Schwartzman (2022).
 *https://arxiv.org/abs/2210.03933*
+
+**On the Finiteness of the Second Moment of the Number of Critical Points of Gaussian Random Fields.**
+S. Davenport, F. Telschow, F. J. (2022).
+*https://arxiv.org/abs/2201.01591*
