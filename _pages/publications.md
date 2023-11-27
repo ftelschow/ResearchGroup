@@ -22,7 +22,7 @@ A. Abdulla, F. Telschow, J. Dohner, R. Keeöing, A. Schwartzman, and D. Victor
 ## 2022
 
 **Functional Delta Residuals and Applications to Simultaneous Confidence Bands of Moment Based Statistics.**
-Telschow, Fabian JE, Samuel Davenport, and Armin Schwartzman.
+F. Telschow, S. Davenport, and A. Schwartzman.
 *Journal of Multivariate Analysis 192 (2022): 105085.*
 
 **Simultaneous Confidence Bands for Functional Data using the Gaussian Kinematic Formula.**  
